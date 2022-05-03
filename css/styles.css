@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Squada+One&display=swap');
+
+@font-face {
+    font-family: "thaleahfat";
+    src: url("../fonts/thaleahfat-webfont.woff2") format("woff2"),
+        url("../fonts/thaleahfat-webfont.ttf") format("truetype");
+    font-weight: 400;
+  }
+
+/*---styles---*/
+
+article {
+	margin: auto;
+	max-width: 500px;
+}
+
+body {
+	color: white;
+	font-family: thaleahfat, roboto, helvetica, sans-serif;
+	font-size: 1.7em;
+	font-weight: bold;
+	letter-spacing: 2px;
+	margin: auto;
+	text-align: center;
+}
+
+div {
+	background-color: #3F3351;
+}
+
+h1 {
+	display: block;
+	font-family: "Squada One", helvetica, sans-serif;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+h2 {
+	color: #3654ca;
+}
+
+hr{
+	border: 1px solid #b3ffff;
+}
+
+/*---class---*/
+
+.bnt{
+	display: inline-block;
+}
+
+.site-bar{
+	background-color: #130f26;
+	border-bottom: 2px solid #b3ffff;
+	height: 48px;
+}
+.site-bar_container{
+
+}
+.surname{
+	margin-bottom: 0;
+}
+.top-container {
+	background-color: #c06ef2;
+	padding-top: 5%;
+	border-bottom: 2px solid #b3ffff;
+}
+
+.middle-container {
+	display: block;
+	padding-bottom: 20px;
+}
+
+.bottom-container {
+	border-top: 2px solid #b3ffff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.city{
+	width: 100%;
+	position: relative;
+	bottom: 0px;
+	display: block;
+}
+.ico-eko{
+
+}
+/*---Id---*/
