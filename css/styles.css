@@ -35,6 +35,19 @@ h1 {
 	margin-bottom: 0px;
 }
 h2 {
+	color: white;
+	font-size: 2.5rem;
+	font-weight: normal;
+}
+h3 {
+	color: #3654ca;
+}
+
+p {
+	color: white;
+}
+
+a {
 	color: #3654ca;
 }
 
