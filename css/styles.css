@@ -2,8 +2,8 @@
 
 @font-face {
     font-family: "thaleahfat";
-    src: url("../fonts/thaleahfat-webfont.woff2") format("woff2"),
-        url("../fonts/thaleahfat-webfont.ttf") format("truetype");
+    src: url("Fonts/thaleahfat-webfont.woff2") format("woff2"),
+        url("Fonts/thaleahfat-webfont.ttf") format("truetype");
     font-weight: 400;
   }
 
